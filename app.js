@@ -1,2 +1,2 @@
 console.log ('qualquer coisa');
-console.log ('terceiro  coisa');
+console.log ('terceiro  coisa: alteração');
